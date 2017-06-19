@@ -60,7 +60,7 @@ public class ValidadorDatos {
 	 * @return List
 	 */
 	public static List<String> SegmentarDirecciones(String Direcciones){
-		List<String> Retorno = new ArrayList<>();
+		List<String> Retorno = new ArrayList<String>();
 		for (String Direccion : Direcciones.split(";")) {
 			Retorno.add(Direccion);
 		}
