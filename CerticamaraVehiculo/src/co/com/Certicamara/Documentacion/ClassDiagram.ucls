@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
-  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="co.com.Certicamara.Componentes.Vehiculo" project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Componentes/Vehiculo.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="207" width="214" x="76" y="209"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="451" y="326"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -14,8 +14,8 @@
   <class id="2" language="java" name="co.com.Certicamara.Componentes.Superficie" project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Componentes/Superficie.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="189" width="173" x="76" y="-20"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="156" y="324"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
@@ -25,87 +25,77 @@
     project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Componentes/Vehiculo.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="170" y="534"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="734" y="321"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </enumeration>  
-  <class id="4" language="java" name="co.com.Certicamara.Ejecutores.CerticamaraVehiculo" project="CerticamaraVehiculo" 
-    file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Ejecutores/CerticamaraVehiculo.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="769" y="337"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <interface id="5" language="java" name="co.com.Certicamara.Interfaces.InterfaceSuperficie" 
+  <interface id="4" language="java" name="co.com.Certicamara.Interfaces.InterfaceSuperficie" 
     project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Interfaces/InterfaceSuperficie.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="456" y="324"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="154" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="6" language="java" name="co.com.Certicamara.Utilitarios.ValidadorDatos" project="CerticamaraVehiculo" 
+  <class id="5" language="java" name="co.com.Certicamara.Utilitarios.ValidadorDatos" project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Utilitarios/ValidadorDatos.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="465" y="521"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="736" y="78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="co.com.Certicamara.Utilitarios.ControlSuperficie" project="CerticamaraVehiculo" 
+  <class id="6" language="java" name="co.com.Certicamara.Utilitarios.ControlSuperficie" project="CerticamaraVehiculo" 
     file="/CerticamaraVehiculo/CerticamaraVehiculo/src/co/com/Certicamara/Utilitarios/ControlSuperficie.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="453" y="75"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    <position height="-1" width="-1" x="448" y="50"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+  <dependency id="7">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
   <nesting id="8">    
     <end type="SOURCE" refId="1"/>    
     <end type="TARGET" refId="3"/>  
   </nesting>  
-  <realization id="9">    
-    <end type="SOURCE" refId="7"/>    
-    <end type="TARGET" refId="5"/>  
-  </realization>  
+  <dependency id="9">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
   <association id="10">    
-    <end type="SOURCE" refId="7" navigable="false">      
-      <attribute id="11" name="SuperficieLogica"/>      
-      <multiplicity id="12" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="2" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="13">    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="14" name="VehiculoRemoto"/>      
-      <multiplicity id="15" minimum="0" maximum="1"/>    
+      <attribute id="11" name="VehiculoRemoto"/>      
+      <multiplicity id="12" minimum="0" maximum="1"/>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="16">    
-    <end type="SOURCE" refId="4" navigable="false">      
-      <attribute id="17" name="SuperficieLogica"/>      
-      <multiplicity id="18" minimum="0" maximum="1"/>    
+  <association id="13">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="14" name="SuperficieLogica"/>      
+      <multiplicity id="15" minimum="0" maximum="1"/>    
     </end>    
-    <end type="TARGET" refId="5" navigable="true"/>    
+    <end type="TARGET" refId="2" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+  <realization id="16">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
     <attributes public="true" package="true" protected="true" private="true" static="true"/>    
     <operations public="true" package="true" protected="true" private="true" static="true"/>  
